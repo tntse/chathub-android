@@ -3,228 +3,192 @@
 
     <item
         is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_15067b1231666f920a5639329cf518595df60663.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_18d75b4ee49d2f5123de8b19c6fa47027f37f179.jar" />
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_344a3e0e0609972acb3c6379daf2c697b5824e42.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.0.0_81cb69e88ff9f0b8edc7a3315066df9d373add34.jar" />
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_258c83632ed9329c7046fde4d5fcb774102ef559.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.0_5e5a630dd1f05e5b454242027945b7f361c56392.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_dcb1c3b51bb173c40befb2ada0a1a65ae3548673.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.0.0_41a7fd3f0edb13b884b2ab2a65eba4dede53cb81.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-1.3.0_5f9db56b056a52e68f8d92b067bb91811765029d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="70ddab48594608953b20164b82f1f890a9a8174a">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.0_3081f116274bb9f34d067400576ce65f11ed9ff1.jar" />
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.0_f62fb17214e8f89a73796047e1166ce32d04a676.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="24536a7b97926a9c155c88425da6875adeb11b51">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.0_c09e852dae99d737dad777dff1df918ca7e3466a.jar" />
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.0_9df32078b23e595f17c02acf26948f7d81edd1c4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.0.0_5967c1f5f5d5216994d0a862cce6c009b22fa9ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="86d6d786e8f484d765a279522e92bfa895d21bb7">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_830776d34075d0e4224a502a2b0d7a866439c54d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="f54c1716bc9afc6c288af8c2ec10005a6dfbe240">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/instant-run_f164efef9e1e68fb56ebe6c580549caefba42f5a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.0.0_968faf009b79c75c0aeb98b5e4c3ffcd53a10229.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_526eccea0360be8120e2b6fa52fbdcb6ba56941d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_076e7c0873482d1a31ade0445d5be3f75852f9ad.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-database-0.4.0_43375347e4b75b6420ef5f8aacda4de3f349b2f4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.0.0_daefe976471a3a47671df65b800f523f95771515.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.0_176951ce52890f01baf6494da77b0cbd70db570b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_95281c08829675f1235489f9ed82dc16dfc789da.jar" />
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_9839442c06d43cac0d84e362a63dca173e340e28.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.0.0_982ef1427661f8596fa87bb70312b296f9698cae.jar" />
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_0a3558114eed64a7e7f18d0d4369fa020630de92.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_274c9d31c102850d031c58c554756d1b27baa9af.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_ff079d26f0de4a00f97057c875e8d278ffc1eb72.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_998fb3fb08e21e305d25b81df8958700c8da803b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_6f7dc8b839de48d4aaa51c35af6d5f8c21c9d240.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_7f9336c7bab9e753929c4d2762c49f08f0817b96.jar" />
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_e9d7e1b6b3bd2080be4b6319c1806ac6e016cecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_240f192c3da6ec9ca333603139248ebc1b4a3e6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.0.0_d5ddde072e9819132db70f576c7e68062e525c02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_159fccc7c94869af492cb91a1c7385bf5c313133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_2e76e3697a406823ce6bb4b31a3756c2468c72b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.0.0_7a3128e7dbb23f20137437ce106cf699d2bd6434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_41fda85aa77a27903ef67ea30db16fb693774225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.0_741b3a3659b30ea45800df766659d13350c6abe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_0fe7550117b45ea1316e9824fc15704a6034a5d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3fc75afee75157f8c29a5c71ef8dbcbfb34e5b34">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/instant-run_9c45b07e09d6aab85727086602bb40fcb0d87307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.0.0_ce8261bac9612db634bae7d96ef69c331efb51e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="561fae2955748ba560dcede033c423e34dda6ea3">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_352c11e4671feececa4471e01c0f6636b183b813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.0.0_267543b20d8b398b1beb3c283517a535a1de077e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_8bc89b2040e89e725bae71cd56ba0a42cf88991a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.0.0_6c2d1de4dad27db228c20a98a422ad6f340f868c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -233,7 +197,7 @@
         optimize="true"
         revision="23.0.3"
         sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_0854c221e8a6132ef4a867c0e8ed252e28d909f8.jar" />
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_0854c221e8a6132ef4a867c0e8ed252e28d909f8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -242,43 +206,70 @@
         optimize="true"
         revision="23.0.3"
         sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/glide-3.6.1_3f641ed2399e2407c60ee2c02a2133227b6e123c.jar" />
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/glide-3.6.1_3f641ed2399e2407c60ee2c02a2133227b6e123c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_dd49d4157d2ae8657264e1ee8077ea2bc67fa4ba.jar" />
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.0_b6fd96bcdff9cbd6276ab0311d6ccd9c487b76d6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.0.0_314191b310239797c32429b987fff0d699eb91c9.jar" />
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-database-0.4.0_ee709833f9aea985285892707dc88736193b91dd.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_f1a09fd69100af36d1b9f5adefec853b35f191f6.jar" />
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-1.3.0_aacfb091c3745a86937d6601234202bf8d071adb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/chathub-android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_af21ff7cd37f2ed5544cab1f9810a69ffc0733fb.jar" />
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_31aee898ebfce13c2b245cd51cc3a27bedf3c0f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_408eef37995e2fb50478d4bb59c05ba6570d6dec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.0.0_978c709061312800d9353e9b2d729b3ccdebcfee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/thomastse/Documents/SFSU/TheLastSemester/MobileDev/blegh/chathub-android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_fcc60fd82fa82abb0ac680a259f054d1643344b2.jar" />
     </item>
 
 </items>
